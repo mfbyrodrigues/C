@@ -4,24 +4,24 @@ Este repositório contém os materiais e exercícios do curso de linguagem de pr
 
 ## Índice
 
-- [Sobre o Curso](#sobre-o-curso)
-- [Configuração do Ambiente](#configuracao-do-ambiente)
-- [Conteúdo do Curso](#conteudo-do-curso)
-- [Minhas Anotações](#minhas-anotacoes)
+- [Sobre o curso](#sobre-o-curso)
+- [Configuração do ambiente](#configuracao-do-ambiente)
+- [Conteúdo do curso](#conteudo-do-curso)
+- [Minhas anotações](#minhas-anotacoes)
 - [Referências](#referencias)
 
-## Sobre o Curso
+## Sobre o curso
 
 Este curso aborda desde os conceitos básicos até técnicas avançadas da linguagem C. O objetivo é entender a sintaxe, estrutura e boas práticas para desenvolvimento na linguagem.
 
-## Configuração do Ambiente
+## Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
-- **Compilador:** GCC
-- **Editor:** VS Code com extensão C/C++
-- **Sistema Operacional:** Linux/macOS/Windows (dependendo do acesso no momento)
+- **Compilador:** GCC;
+- **Editor:** VS Code com extensão C/C++;
+- **Sistema Operacional:** Windows 11.
 
-## Conteúdo do Curso
+## Conteúdo do curso
 
 Os principais tópicos abordados incluem:
 
@@ -46,16 +46,16 @@ Os principais tópicos abordados incluem:
    - Entrada e saída de arquivos
    - Leitura e escrita de dados
 
-## Minhas Anotações
+## Minhas anotações
 
-Aqui adicionarei anotações e códigos importantes conforme avanço no curso.
+Aqui adicionarei anotações e códigos feitos conforme avanço no curso.
 
 ## Referências
 
-- Documentação oficial do C
-- Livros e materiais recomendados durante o curso
-- Fóruns e comunidades de programação
+- Documentação oficial do C;
+- Livros e materiais recomendados durante o curso;
+- Fóruns e comunidades de programação.
 
-Esse repositório servirá como meu espaço de aprendizado e consulta ao longo do curso.
-```
+##
 
+Esse repositório servirá como meu espaço de aprendizado e registro do curso.
